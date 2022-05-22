@@ -1,0 +1,6 @@
+print("Projete sua viagem")
+codigo = input ("Digite o numero da linha:")
+ida = input ("Digite o destino inicial da linha:")
+chegada = input ("Digite o destino final da linha:")
+horario = input ("Digite o horario da viagem:")
+print(f"A linha {codigo}, irá partir de {ida} até {chegada} as {horario}")
